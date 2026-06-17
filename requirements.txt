@@ -1,5 +1,0 @@
-Flask
-qrcode
-boto3
-python-dotenv
-pillow
